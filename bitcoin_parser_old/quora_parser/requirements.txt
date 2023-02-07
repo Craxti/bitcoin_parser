@@ -1,0 +1,4 @@
+pymongo==4.1.1
+python-dateutil==2.8.1
+webdriver-manager==3.5.2
+selenium==3.141.0
