@@ -1,0 +1,11 @@
+pymongo
+beautifulsoup4
+aiodns
+aiohttp
+dnspython
+asyncio
+logging
+numpy
+selenium
+shelve
+multiprocessing
