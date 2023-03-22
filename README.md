@@ -8,9 +8,6 @@ Parsers for popular cryptocurrency forums. Collect data on bitcoin wallets
 - [@craxti](https://www.github.com/craxti)
 
 
-## Demo
-
-Insert gif or link to demo
 
 
 ## Usage
@@ -28,9 +25,9 @@ python3 main.py
 
 ## Tech Stack
 
-**Client:** python3
+**Client:** python3, MongoDB
 
-**Server:** python3
+**Server:** python3, MongoDB
 
 
 ## Deployment
@@ -51,3 +48,8 @@ If you have any feedback, please reach out to us at alfetisov7@gmail.com
 
 [MIT](https://github.com/Craxti/bitcoin_parser/blob/main/License)
 
+
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
