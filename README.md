@@ -3,6 +3,14 @@
 
 Parsers for popular cryptocurrency forums. Collect data on bitcoin wallets
 
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## Authors
 
 - [@craxti](https://www.github.com/craxti)
